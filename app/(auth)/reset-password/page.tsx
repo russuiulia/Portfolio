@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Reset Password - Open PRO",
-  description: "Page description",
+  title: "Russu Iulia - Portfolio",
+  description: "FullStack Developer",
 };
 
 import Link from "next/link";
