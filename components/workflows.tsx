@@ -88,7 +88,7 @@ export default function Workflows() {
                   <div className="p-6">
                     <div className="flex items-center gap-3 pb-4">
                       <img
-                        src="https://easyreserv.io/assets/logo-round.png"
+                        src="/images/easyreservLogo.png"
                         alt="Logo"
                         className="w-7 h-7 object-contain"
                       />
