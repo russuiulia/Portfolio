@@ -173,7 +173,7 @@ export default function Workflows() {
                         </span>
                       </span>
                       <br />
-                      <a href="https://ro.wonki.md/" target="_blank"
+                      <a href="https://brainstorm.md/" target="_blank"
                         rel="noopener noreferrer" className="relative z-50 mt-5 text-indigo-300 font-nacelle text-lg md:text-lg pointer-events-auto">
                         View project →
                       </a>

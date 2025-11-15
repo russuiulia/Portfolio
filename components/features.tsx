@@ -43,19 +43,19 @@ export default function Features() {
                   <li>
                     <span className="font-semibold">iAsig</span> (12/2023 - 11/2025): Developed the first fully digital insurance platform in Moldova,
                     including RESTful APIs, frontend/backend with React/Next.js/Firebase, a Telegram mini-app, and dynamic content via Sanity.io.
-                    <a href="https://iasig.md/" target="_blank" rel="noopener noreferrer" className="text-indigo-300 underline ml-1">Contacts</a>
+                    <a href="https://iasig.md/" target="_blank" rel="noopener noreferrer" className="text-indigo-300 underline ml-1 z-80 relative">Contacts</a>
                   </li>
                   <li>
                     <span className="font-semibold">iShunea Tech Solutions</span> (06/2023 - 11/2023): Built EasyReserv, a React/Node.js restaurant management app with pixel-perfect frontend, interactive drag-and-drop table layout system, and mentoring interns.
-                    <a href="https://ishunea.io/" target="_blank" rel="noopener noreferrer" className="text-indigo-300 underline ml-1">Contacts</a>
+                    <a href="https://ishunea.io/" target="_blank" rel="noopener noreferrer" className="text-indigo-300 underline ml-1 z-80 relative">Contacts</a>
                   </li>
                   <li>
                     <span className="font-semibold">Wonki.md</span> (10/2022 - 02/2023): Enhanced a kindergarten website with React components and MySQL integration.
-                    <a href="https://brainstorm.md/" target="_blank" rel="noopener noreferrer" className="text-indigo-300 underline ml-1">Contacts</a>
+                    <a href="https://brainstorm.md/" target="_blank" rel="noopener noreferrer" className="text-indigo-300 underline ml-1 z-80 relative">Contacts</a>
                   </li>
                   <li>
                     <span className="font-semibold">Labs42</span> (05/2018 - 08/2020): Developed and optimized Angular/Express.js apps with responsive design and RESTful APIs.
-                    <a href="https://labs42.io/" target="_blank" rel="noopener noreferrer" className="text-indigo-300 underline ml-1">Contacts</a>
+                    <a href="https://labs42.io/" target="_blank" rel="noopener noreferrer" className="text-indigo-300 underline ml-1 z-80 relative">Contacts</a>
                   </li>
                 </ul>
                 {/* 
